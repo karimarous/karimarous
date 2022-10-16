@@ -1,4 +1,4 @@
-### Hi there 👋
+### :sunglasses: Hey! Nice to see you. 
 
 <!--
 **karimarous/karimarous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+Welcome to my page!
+I'm Thomas, Fullstack developer from  Lorient, France, currently living in  Stockholm, Sweden.
+
+Things I code with
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimarous)
