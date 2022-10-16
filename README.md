@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 Welcome to my page!
-I'm Thomas, Fullstack developer from  Lorient, France, currently living in  Stockholm, Sweden.
+I'm Karim, Cloud / DevOps Engineer from Tunisia [TN], currently living in  Paris, France.
 
 Things I code with
 
