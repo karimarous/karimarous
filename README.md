@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 Welcome to my page!
-I'm Karim, Cloud / DevOps Engineer from Tunisia ['TN'], currently living in  Paris, France.
+I'm Karim, Cloud / DevOps Engineer from Tunisia :tunisia:, currently living in  Paris, France :france:.
 
-Things I code with
+Things I lo
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimarous)
