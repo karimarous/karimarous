@@ -11,8 +11,8 @@
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-purple?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/-Amazon_Web_Services-yellow?style=flat-square&logo=amazon&logoColor=white" />
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx?style=flat-square&logo=nginx&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Helm" src="https://img.shields.io/badge/-Helm?style=flat-square&logo=helm&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="Helm" src="https://img.shields.io/badge/-Helm-blue?style=flat-square&logo=helm&logoColor=white" />
 </p>
 
 ![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimarous)
