@@ -10,7 +10,8 @@
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/-Amazon_Web_Services-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-
+  
+  <img alt="MongoDB" src="https://img.shields.io/badge/-Terraform-purple?style=flat-square&logo=terraform&logoColor=white />
 </p>
 
 ![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimarous)
