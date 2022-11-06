@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Karim, Cloud / DevOps Engineer from <b> Monastir, Tunisia</b>, currently living in <b>Paris, France</b>. </p>
-<h3>Things I code with</h3>
+<h3>Things I deal with</h3>
 <p>
 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
