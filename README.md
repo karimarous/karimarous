@@ -15,7 +15,7 @@
   <img alt="Helm" src="https://img.shields.io/badge/-Helm-blue?style=flat-square&logo=helm&logoColor=white" />
 </p>
 
-[Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimarous)!
+[Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimarous)
 
 
 <!--
