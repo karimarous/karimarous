@@ -11,6 +11,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-purple?style=flat-square&logo=terraform&logoColor=white" />
+  ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/-Amazon_Web_Services-yellow?style=flat-square&logo=amazon&logoColor=white" />
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx?style=flat-square&logo=nginx&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=white" />
