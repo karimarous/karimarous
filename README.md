@@ -27,6 +27,8 @@
 ### 🔥 Pinned Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=karimarous&repo=aws-role-github)](https://github.com/karimarous/aws-role-github)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=karimarous&repo=aws-certificate)](https://github.com/karimarous/aws-certificate)
+
 
 <!--
 **karimarous/karimarous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
