@@ -1,7 +1,10 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+# 👋 Hello, I'm Karim Arous!
 
+🚀 DevSecOps Engineer | Passionate about Automation
 
-<p>Welcome to my page! </br> I'm Karim, DevSecOps Engineer from <b>Tunisia</b>, currently living in <b>Paris, France</b>. </p>
+"Empowering the cloud with automation, one pipeline at a time."
+<p>Welcome to my page <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </p>
+
 <h3>Things I deal with</h3>
 <p>
 
@@ -21,6 +24,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarimArous&layout=compact&theme=radical)
 
+### 🔥 Pinned Projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KarimArous&repo=aws-role)](https://github.com/karimarous/aws-role-github)
 
 <!--
 **karimarous/karimarous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
