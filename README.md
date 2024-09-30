@@ -27,7 +27,6 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=karimarous&repo=aws-role-github)](https://github.com/karimarous/aws-role-github)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=karimarous&repo=aws-certificate)](https://github.com/karimarous/aws-certificate)
 
 
 ### 📫 Let's Connect!
