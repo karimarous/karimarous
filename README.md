@@ -2,8 +2,7 @@
 
 🚀 DevSecOps Engineer | Passionate about Automation
 
-"Empowering the cloud with automation, one pipeline at a time."
-<p>Welcome to my page <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </p>
+<p>Welcome to my profile <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </p>
 
 <h3>Things I deal with</h3>
 <p>
