@@ -15,6 +15,8 @@
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx?style=flat-square&logo=nginx&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Helm" src="https://img.shields.io/badge/-Helm-blue?style=flat-square&logo=helm&logoColor=white" />
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
 </p>
 
 ### 📊 GitHub Stats
