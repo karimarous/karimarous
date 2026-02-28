@@ -22,9 +22,11 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 ![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimarous&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarimArous&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karimarous&layout=compact&theme=radical)
 
 ### 🔥 Pinned Projects
 
