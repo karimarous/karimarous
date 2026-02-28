@@ -1,54 +1,80 @@
-# 👋 Hello, I'm Karim Arous!
-
-🚀 DevSecOps Engineer | Passionate about Automation
-
-<p>Welcome to my profile <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </p>
-
-<h3>Things I deal with</h3>
-<p>
-
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-purple?style=flat-square&logo=terraform&logoColor=white" />
-  <img alt="Amazon Web Services" src="https://img.shields.io/badge/-Amazon_Web_Services-yellow?style=flat-square&logo=amazon&logoColor=white" />
-  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx?style=flat-square&logo=nginx&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Helm" src="https://img.shields.io/badge/-Helm-blue?style=flat-square&logo=helm&logoColor=white" />
-  <img alt="Vault" src="https://img.shields.io/badge/-Vault-000000?style=flat-square&logo=vault&logoColor=white" />
-  <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img alt="Azure DevOps" src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
-</p>
-
-### 📊 GitHub Stats
+<h1 align="center">Karim Arous</h1>
+<h3 align="center">DevSecOps Engineer | Cloud Architect | Kubernetes Specialist</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karimarous&show_icons=true&theme=radical&&count_private=true&&hide_border=true" height="165"/>
+Designing secure, scalable, and cost-efficient cloud-native platforms.
+</p>
+
+---
+
+## 🔐 Core Expertise
+
+- Cloud Architecture (AWS & Azure)
+- Kubernetes (AKS / EKS)
+- DevSecOps & CI/CD Automation
+- Infrastructure as Code (Terraform)
+- Cloud Security & Identity
+- Observability & Monitoring
+- FinOps & Cost Optimization
+
+---
+
+## ⚙️ Technology Stack
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-IaC-623CE4?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-Packaging-0F1689?style=flat-square&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vault-Secrets-000000?style=flat-square&logo=vault&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-Proxy-009639?style=flat-square&logo=nginx&logoColor=white" />
+</p>
+
+---
+
+## 📊 Engineering Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karimarous&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimarous&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
-### 🔥 Pinned Projects
+---
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=karimarous&repo=aws-role-github)](https://github.com/karimarous/aws-role-github)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=karimarous&repo=aws-certificate)](https://github.com/karimarous/aws-certificate)
+## 🏗 Featured Projects
 
+<p align="center">
+  <a href="https://github.com/karimarous/aws-role-github">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karimarous&repo=aws-role-github&theme=radical&hide_border=true"/>
+  </a>
+  <a href="https://github.com/karimarous/aws-certificate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karimarous&repo=aws-certificate&theme=radical&hide_border=true"/>
+  </a>
+</p>
 
+---
 
-### 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/karim-arous/)
-- [Upwork](https://www.upwork.com/fl/~01d05c7e1d22549bfa?mp_source=share)
+## 🧠 What I Focus On
 
-<!--
-**karimarous/karimarous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Designing highly available cloud infrastructures  
+- Securing Kubernetes workloads using best practices  
+- Implementing automated CI/CD pipelines  
+- Optimizing infrastructure costs without sacrificing performance  
+- Building resilient, production-grade systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/karim-arous/
+- 🌍 Upwork: https://www.upwork.com/fl/~01d05c7e1d22549bfa?mp_source=share
+
+---
+
+<p align="center">
+⚡ Engineering is not about deploying code.  
+It’s about designing systems that survive failure.
+</p>
