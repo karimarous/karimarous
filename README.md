@@ -38,8 +38,20 @@ Designing secure, scalable, and cost-efficient cloud-native platforms.
 ## 📊 Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karimarous&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=karimarous&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=karimarous&show_icons=true&theme=radical&hide_border=true&count_private=true"
+      alt="Karim Arous GitHub stats"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimarous&layout=compact&theme=radical&hide_border=true"
+      alt="Top languages"
+    />
+  </a>
 </p>
 
 ---
